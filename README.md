@@ -61,7 +61,7 @@
 ## 🌐 [`Websites`]()
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Javatpoint](https://www.javatpoint.com/)
+- [TpointTech](https://www.tpointtech.com/)
 
 
 # 📝 [`MIT License`](https://github.com/Ayon-SSP/The-SDE-Prep/blob/main/LICENCE)
